@@ -12,6 +12,6 @@
   <img src="https://chlist.sitechco.ru/img/logo1z.png" title="Sitechco" alt="Sitechco" width="45" height="20"/>&nbsp;
   <img src="https://app.qase.io/assets/auth/images/logo-full-light.9d256dda.svg" title="qase.io" alt="qase.io" width="35" height="35"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;
-
-  
+  <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png" title="SoapUI" alt="SoapUI" width="45" height="35"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles" alt="Charles" width="35" height="35"/>&nbsp;
   </div>
