@@ -1,4 +1,8 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="100"/>
+   <div id="header" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=EvgenyKhanawin&style=flat-square&color=blue" alt=""/> 
+  
 # Портфолио: инженер по тестированию
 
 ## Обо мне.
