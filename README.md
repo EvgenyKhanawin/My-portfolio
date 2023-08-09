@@ -34,3 +34,4 @@
 ### Тестовая документация:
 
 [Bug-Reports](https://github.com/EvgenyKhanawin/Bug-Reports)
+[Checklists](https://github.com/EvgenyKhanawin/Checklists)
