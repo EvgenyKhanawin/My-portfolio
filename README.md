@@ -5,23 +5,28 @@
    </div>  
   
   
-# Портфолио: инженер по тестированию.
+# Портфолио: инженер по тестированию
+
+### Мое резюме
+
+[Резюме](https://docs.google.com/document/d/1C1fxk5Gbeg7Jqw1e9mRJmVFKD38NWlE6vwYH33cnkyE/edit?usp=sharing)
 
 ## Обо мне.
 Привет! Меня зовут Евгений и я начинающий тестировщик.
 В данном репозитории вы можете найти некоторые из моих проектов, выполненых во время обучения и участия в краундтестировании.
 
-## Дополнительная информация 
+### Дополнительная информация 
 
 
-#### Для связи со мной можно воспользоваться: 
+#### Для связи со мной можно воспользоваться
+
 [Email](khanawin@yandex.ru)
 
 [Telegram](https://t.me/ave_Evgeny)
 
 
 
-## Навыки и технологии:
+## Навыки и технологии
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="35" height="35"/>&nbsp;
@@ -35,7 +40,7 @@
   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles" alt="Charles" width="35" height="35"/>&nbsp;
   </div>
 
-### Тестовая документация:
+### Тестовая документация
 
 [Bug-Reports](https://github.com/EvgenyKhanawin/Bug-Reports)
 [Checklists](https://github.com/EvgenyKhanawin/Checklists)
