@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="100"/>
    <div id="header" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=EvgenyKhanawin&style=flat-square&color=blue" alt=""/> 
+   </div>
   
-# Портфолио: инженер по тестированию
+# Портфолио: инженер по тестированию.
 
 ## Обо мне.
 Привет! Меня зовут Евгений и я начинающий тестировщик.
@@ -29,3 +30,7 @@
   <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png" title="SoapUI" alt="SoapUI" width="45" height="35"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles" alt="Charles" width="35" height="35"/>&nbsp;
   </div>
+
+### Тестовая документация:
+
+[Bug-Reports](https://github.com/EvgenyKhanawin/Bug-Reports)
