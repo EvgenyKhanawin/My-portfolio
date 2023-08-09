@@ -1,10 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="100"/>
-   <div id="header" align="center"> 
-<img src="https://komarev.com/ghpvc/?username=EvgenyKhanawin&style=flat-square&color=blue" alt=""/> 
-   </div>  
-  
-  
+ ![Header](https://qa-academy.lv/wp-content/uploads/2017/07/qa-career-opportunities.png)
 # Портфолио: инженер по тестированию
 
 ### Мое резюме
@@ -46,3 +40,8 @@
 [Checklists](https://github.com/EvgenyKhanawin/Checklists)
 [Test plan](https://github.com/EvgenyKhanawin/Test_plan)
 [Test case](https://github.com/EvgenyKhanawin/Test_case)
+
+
+  <div id="header" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=EvgenyKhanawin&style=flat-square&color=blue" alt=""/> 
+   </div>  
