@@ -35,3 +35,5 @@
 
 [Bug-Reports](https://github.com/EvgenyKhanawin/Bug-Reports)
 [Checklists](https://github.com/EvgenyKhanawin/Checklists)
+[Test plan](https://github.com/EvgenyKhanawin/Test_plan)
+[Test case](https://github.com/EvgenyKhanawin/Test_case)
