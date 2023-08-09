@@ -17,7 +17,7 @@
 #### Для связи со мной можно воспользоваться: 
 [Email](khanawin@yandex.ru)
 
-[Telegramm](https://t.me/ave_Evgeny)
+[Telegram](https://t.me/ave_Evgeny)
 
 
 
