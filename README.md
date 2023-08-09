@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="100"/>
    <div id="header" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=EvgenyKhanawin&style=flat-square&color=blue" alt=""/> 
-   </div>
+   </div>  
+  
   
 # Портфолио: инженер по тестированию.
 
@@ -10,10 +11,13 @@
 Привет! Меня зовут Евгений и я начинающий тестировщик.
 В данном репозитории вы можете найти некоторые из моих проектов, выполненых во время обучения и участия в краундтестировании.
 
-#### Для связи со мной можно воспользоваться: 
-<khanawin@yandex.ru>
+## Дополнительная информация 
 
-<https://t.me/ave_Evgeny>
+
+#### Для связи со мной можно воспользоваться: 
+[Email](khanawin@yandex.ru)
+
+[Telegramm](https://t.me/ave_Evgeny)
 
 
 
