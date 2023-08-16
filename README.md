@@ -3,7 +3,7 @@
 
 ### Мое резюме
 
-[Резюме](https://docs.google.com/document/d/1C1fxk5Gbeg7Jqw1e9mRJmVFKD38NWlE6vwYH33cnkyE/edit?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1kKl-nOJf6yH1O1377o9S7xIcbPZBCbwe/view?usp=sharing)
 
 ## Обо мне.
 Привет! Меня зовут Евгений.  
