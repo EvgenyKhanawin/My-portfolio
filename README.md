@@ -18,7 +18,7 @@
 ### Проекты
 
 [Учебные проекты](https://docs.google.com/document/d/1Xt8MRyGBDG_1wsQFCiji7b6Fi58AH6FZAWFgO3K-MsE/edit?usp=sharing)
-
+[Практические проекты](https://docs.google.com/document/d/1jk7JHoEQAj2nsmd-e8y5k3i_52FzuZ0NVEKIIKnbzts/edit?usp=sharing)
 
 
 #### Для связи со мной можно воспользоваться
